@@ -1,0 +1,30 @@
+1,Lenovo ThinkCentre M720,Computadora,i5 9th Gen 8GB RAM,1001,Limpieza interna y cambio pasta,Fabrizzio Ochoa,2023-09-10,35.0
+2,HP ProBook 450 G8,Laptop,i7 11th Gen SSD 512GB,1002,Cambio de pantalla rota,Lizardo Castillo,2023-09-12,250.0
+3,Canon Pixma G3110,Impresora,Multifuncional Tinta,-1,Sin Asignar,Julio Juarez,2023-11-25,0.0
+4,Dell PowerEdge T40,Servidor,Xeon E-2224G,1003,Configuracion RAID 5,Leroy Roman,2023-09-15,120.0
+5,Cisco ISR 4321,Router,Gigabit Router,1004,Actualizacion Firmware IOS,Fabrizzio Ochoa,2023-09-18,80.0
+6,Logitech MX Master 3,Otro,Mouse inalambrico avanzado,-1,Sin Asignar,Lizardo Castillo,2023-11-25,0.0
+7,Asus Vivobook 15,Laptop,Ryzen 7 16GB RAM,1005,Formateo e instalacion Win11,Julio Juarez,2023-09-20,45.0
+8,Epson EcoTank L3250,Impresora,Wifi Tinta Continua,1006,Desatasco de cabezales,Leroy Roman,2023-09-22,60.0
+9,Lenovo Legion 5,Computadora,RTX 3060 Ryzen 7,1007,Instalacion Drivers Graficos,Fabrizzio Ochoa,2023-09-25,30.0
+10,Ubiquiti Unifi AP AC,Router,Access Point WiFi 6,-1,Sin Asignar,Lizardo Castillo,2023-11-25,0.0
+11,Dell Optiplex 7090,Computadora,i7 16GB 1TB HDD,1008,Reemplazo Fuente de Poder,Julio Juarez,2023-10-01,150.0
+12,MacBook Air M1,Laptop,8GB RAM 256GB SSD,1009,Revision de estado bateria,Leroy Roman,2023-10-05,0.0
+13,HP LaserJet Pro M404,Impresora,Laser Monocromatica,1010,Cambio de Toner Negro,Fabrizzio Ochoa,2023-10-08,90.0
+14,Synology DS220+,Servidor,NAS 2 Bay Diskless,-1,Sin Asignar,Lizardo Castillo,2023-11-25,0.0
+15,Mikrotik hEX S,Router,5 Puertos Gigabit PoE,1011,Configuracion VPN Site-to-Site,Julio Juarez,2023-10-10,100.0
+16,Monitor Samsung T350,Otro,IPS 24 pulgadas 75Hz,1012,Reparacion boton encendido,Leroy Roman,2023-10-12,40.0
+17,Acer Nitro 5,Laptop,i5 GTX 1650,1013,Limpieza ventiladores ruidosos,Fabrizzio Ochoa,2023-10-15,35.0
+18,Brother DCP-T520W,Impresora,Multifuncional Wifi,-1,Sin Asignar,Lizardo Castillo,2023-11-25,0.0
+19,HP EliteDesk 800 G6,Computadora,Mini PC i5 vPro,1014,Ampliacion RAM a 16GB,Julio Juarez,2023-10-18,180.0
+20,TP-Link Archer C7,Router,AC1750 Dual Band,1015,Reset de fabrica y config basica,Leroy Roman,2023-10-20,25.0
+21,Lenovo ThinkPad X1,Laptop,Carbon Gen 9 Ultralight,-1,Sin Asignar,Fabrizzio Ochoa,2023-11-25,0.0
+22,Kyocera Ecosys P2040,Impresora,Alta velocidad 40ppm,1016,Mantenimiento preventivo rodillos,Lizardo Castillo,2023-10-25,70.0
+23,Dell PowerEdge R740,Servidor,Rack 2U Dual Xeon,1017,Instalacion Windows Server 2022,Julio Juarez,2023-10-28,200.0
+24,Huawei WiFi AX3,Router,Quad Core WiFi 6 Plus,1018,Configuracion red Mesh,Leroy Roman,2023-11-01,50.0
+25,HyperX Alloy FPS,Otro,Teclado Mecanico Cherry MX,-1,Sin Asignar,Fabrizzio Ochoa,2023-11-25,0.0
+26,MSI GF63 Thin,Laptop,i5 10th Gen 16GB,1019,Reemplazo de teclado dañado,Lizardo Castillo,2023-11-05,120.0
+27,HP 205 G4,Computadora,All in One Ryzen 3,1020,Optimizacion de sistema lento,Julio Juarez,2023-11-08,40.0
+28,Zebra ZD220,Impresora,Impresora Etiquetas Termica,1021,Calibracion de sensor etiquetas,Leroy Roman,2023-11-10,65.0
+29,Fortinet FortiGate 60F,Router,Firewall empresarial,-1,Sin Asignar,Fabrizzio Ochoa,2023-11-25,0.0
+30,Wacom Intuos S,Otro,Tableta Grafica Bluetooth,1022,Instalacion de Software Creative,Lizardo Castillo,2023-11-15,20.0
